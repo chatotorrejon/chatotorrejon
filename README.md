@@ -1,2 +1,2 @@
 HOLA SOY EL CHATO DE TORREJON
-<img src="cafe.jpg">
+<img src="cafe2.jpg">
